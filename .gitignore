@@ -1,4 +1,6 @@
 README.md
 
 # No need for git in a executable file.
-empires2.exe
+*.exe
+*.dll
+*.pdb
