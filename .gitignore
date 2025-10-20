@@ -1,0 +1,6 @@
+README.md
+
+# No need for git in a executable file.
+*.exe
+*.dll
+*.pdb
