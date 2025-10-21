@@ -11,7 +11,7 @@ Remade v2
 > If you do not know how to play, please see the beginner/learning campagin.
 > Or you'll get cooked by the ai.
 
-Do know where to find my repositories (Amazing ones!), click on the link below:
-===============================================================================
+Don't know where to find my repositories? click on the link below:
+==================================================================
 
-<a href="https://github.com/KavRom">My Repositories</a>
+[My Repositories](https://github.com/KavRom)
