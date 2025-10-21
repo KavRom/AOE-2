@@ -1,9 +1,9 @@
-AOK-2
+AOE-2
 ===================
 
 My age of empires 2 game.
 
-Original recopy
+Remade v2
 ---------------
 
 > :bulb: Tip
